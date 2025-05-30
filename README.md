@@ -1,3 +1,7 @@
+## 🚧 Under Development
+
+The app is still a work in progress. New features will be added!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
